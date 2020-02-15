@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavla_zar", "Tavla_zar\Tavla_zar.csproj", "{5DFC59DA-A10C-45C2-BA33-57754DDB66AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFC59DA-A10C-45C2-BA33-57754DDB66AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFC59DA-A10C-45C2-BA33-57754DDB66AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFC59DA-A10C-45C2-BA33-57754DDB66AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFC59DA-A10C-45C2-BA33-57754DDB66AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B23CB73-E74B-4BE0-85A7-2565808C9514}
+	EndGlobalSection
+EndGlobal
